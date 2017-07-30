@@ -1,0 +1,139 @@
+body {
+  font-family: sans-serif;
+}
+
+.logo img {}
+
+.navigation li {
+  display: inline;
+}
+
+.primary-navigation1 a {
+  font-family: arial, sans-serif;
+  text-decoration: none;
+  color: orange;
+  text-transform: uppercase;
+  padding: 0 10px 0 0;
+}
+
+.primary-navigation1 a:hover {
+  text-decoration: underline;
+  color: red
+}
+
+.secondary-navigation1 a {
+  font-family: arial, sans-serif;
+  text-decoration: none;
+  color: orange;
+  padding: 0 10px 0 0;
+}
+
+.secondary-navigation1 a:hover {
+  text-decoration: underline;
+  color: red
+}
+
+.backtoshoes {
+  text-decoration: none;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.productdescription {
+  color: #ffffff;
+  line-height: 1.5;
+  padding: 40px 100px margin: auto;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: arial, sans-serif;
+  font-size: 40px;
+}
+
+h4 {
+  color: red;
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.hr1 {background-color: orange;
+  border-top: 2px dashed red;
+
+}
+
+.producttitle {
+  color: #ffffff;
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+header {
+  margin: auto;
+}
+
+.readreview {
+color: red
+}
+
+.price {
+  color: #ffffff;
+  font-family: arial, sans-serif;
+  font-size: 25px; letter-spacing: 1px
+}
+sup {font-size: 50%; letter-spacing: 1px}
+
+.button {
+  float: right;
+  display: inline-block;
+border-radius: 10px;
+padding: 10px;
+width: 125px;
+height: 50px;
+background-color: #ffffff;
+text-align: center;
+font-size: 15px;
+color: orange;
+text-transform: uppercase;
+}
+
+.container1 {
+  margin: auto;
+  background-color: orange;
+  padding: 70px 140px;
+}
+
+.container2 {
+  margin: auto;
+  background-color: #ffffff;
+  padding: 70px 140px;
+  font-family: arial, sans-serif;
+  color: #333333
+}
+
+.productnavigation li {display: inline;}
+
+.productnavigation
+a {
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  color: orange;
+  padding: 0 10px 0 0;
+}
+.productnavigation a:hover {
+  text-decoration: underline;
+  color: red
+}
+
+.bottomdivide {
+  background-color: #E5D6D5;
+  height: 50px;
+  padding: 1px 0;
+text-align: center;
+font-family: arial, sans-serif;
+color: #333333}
+
+.image {padding: 0 10 10 0}
